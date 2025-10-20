@@ -1,0 +1,169 @@
+[gd_scene load_steps=35 format=3 uid="uid://cmmsniu5sv8eo"]
+
+[ext_resource type="Texture2D" uid="uid://b0n21hj6eer7a" path="res://assets/SlimeOrange/SlimeOrange_00000.png" id="1_14fd2"]
+[ext_resource type="Script" uid="uid://wye728ba4vfv" path="res://scripts/orange_slime.gd" id="1_23js5"]
+[ext_resource type="Texture2D" uid="uid://vxcp27ph6fb7" path="res://assets/SlimeOrange/SlimeOrange_00001.png" id="2_23js5"]
+[ext_resource type="Texture2D" uid="uid://syytddo6p45g" path="res://assets/SlimeOrange/SlimeOrange_00002.png" id="3_57d63"]
+[ext_resource type="Texture2D" uid="uid://be287baq3e2pa" path="res://assets/SlimeOrange/SlimeOrange_00003.png" id="4_4u6dc"]
+[ext_resource type="Texture2D" uid="uid://egy5wxypye1w" path="res://assets/SlimeOrange/SlimeOrange_00004.png" id="5_r2i4d"]
+[ext_resource type="Texture2D" uid="uid://blsgiyhwujdne" path="res://assets/SlimeOrange/SlimeOrange_00005.png" id="6_fslah"]
+[ext_resource type="Texture2D" uid="uid://dd64uqkcjtih2" path="res://assets/SlimeOrange/SlimeOrange_00006.png" id="7_ahb0y"]
+[ext_resource type="Texture2D" uid="uid://brx6cjnephoqx" path="res://assets/SlimeOrange/SlimeOrange_00007.png" id="8_hyckf"]
+[ext_resource type="Texture2D" uid="uid://cpbjj45ic1upw" path="res://assets/SlimeOrange/SlimeOrange_00008.png" id="9_kg4b0"]
+[ext_resource type="Texture2D" uid="uid://ca42l57de2np7" path="res://assets/SlimeOrange/SlimeOrange_00009.png" id="10_slubk"]
+[ext_resource type="Texture2D" uid="uid://cjx33fc8ttljw" path="res://assets/SlimeOrange/SlimeOrange_00010.png" id="11_j5w7g"]
+[ext_resource type="Texture2D" uid="uid://dp6f3dq7bd5j2" path="res://assets/SlimeOrange/SlimeOrange_00011.png" id="12_uxrgi"]
+[ext_resource type="Texture2D" uid="uid://dx21s4sav8ktq" path="res://assets/SlimeOrange/SlimeOrange_00012.png" id="13_aid8k"]
+[ext_resource type="Texture2D" uid="uid://bs33nmrhfswvc" path="res://assets/SlimeOrange/SlimeOrange_00013.png" id="14_vp3in"]
+[ext_resource type="Texture2D" uid="uid://yimfmx02mw2" path="res://assets/SlimeOrange/SlimeOrange_00014.png" id="15_afboe"]
+[ext_resource type="Texture2D" uid="uid://c0d3krigelgf8" path="res://assets/SlimeOrange/SlimeOrange_00015.png" id="16_oqr1u"]
+[ext_resource type="Texture2D" uid="uid://buq6ynejeec5c" path="res://assets/SlimeOrange/SlimeOrange_00016.png" id="17_yg3ny"]
+[ext_resource type="Texture2D" uid="uid://c6tn40j4n21ax" path="res://assets/SlimeOrange/SlimeOrange_00017.png" id="18_hyus4"]
+[ext_resource type="Texture2D" uid="uid://jp2ndo7wy7ga" path="res://assets/SlimeOrange/SlimeOrange_00018.png" id="19_d7ncq"]
+[ext_resource type="Texture2D" uid="uid://bpe2y0ycyvrs" path="res://assets/SlimeOrange/SlimeOrange_00019.png" id="20_th3vs"]
+[ext_resource type="Texture2D" uid="uid://dbei1uo67qclb" path="res://assets/SlimeOrange/SlimeOrange_00020.png" id="21_eoa17"]
+[ext_resource type="Texture2D" uid="uid://b4boewm12b8w2" path="res://assets/SlimeOrange/SlimeOrange_00021.png" id="22_acixt"]
+[ext_resource type="Texture2D" uid="uid://cqd8wvsnsephy" path="res://assets/SlimeOrange/SlimeOrange_00022.png" id="23_btq6b"]
+[ext_resource type="Texture2D" uid="uid://sperjedg70al" path="res://assets/SlimeOrange/SlimeOrange_00023.png" id="24_8q1lx"]
+[ext_resource type="Texture2D" uid="uid://dnx4nfpmfa1ud" path="res://assets/SlimeOrange/SlimeOrange_00024.png" id="25_qyx07"]
+[ext_resource type="Texture2D" uid="uid://dycaptsaf88dj" path="res://assets/SlimeOrange/SlimeOrange_00025.png" id="26_cp3g7"]
+[ext_resource type="Texture2D" uid="uid://bcge2pqsk0dwq" path="res://assets/SlimeOrange/SlimeOrange_00026.png" id="27_xg1oo"]
+[ext_resource type="Texture2D" uid="uid://cle8sfkodshx1" path="res://assets/SlimeOrange/SlimeOrange_00027.png" id="28_kejm1"]
+[ext_resource type="Texture2D" uid="uid://cxjnnmhbplqw8" path="res://assets/SlimeOrange/SlimeOrange_00028.png" id="29_hdvrj"]
+[ext_resource type="Texture2D" uid="uid://div7w4vf3y6tg" path="res://assets/SlimeOrange/SlimeOrange_00029.png" id="30_uk21i"]
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_hw1on"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("1_14fd2")
+}, {
+"duration": 1.0,
+"texture": ExtResource("2_23js5")
+}, {
+"duration": 1.0,
+"texture": ExtResource("3_57d63")
+}, {
+"duration": 1.0,
+"texture": ExtResource("4_4u6dc")
+}, {
+"duration": 1.0,
+"texture": ExtResource("5_r2i4d")
+}, {
+"duration": 1.0,
+"texture": ExtResource("6_fslah")
+}, {
+"duration": 1.0,
+"texture": ExtResource("7_ahb0y")
+}, {
+"duration": 1.0,
+"texture": ExtResource("8_hyckf")
+}, {
+"duration": 1.0,
+"texture": ExtResource("9_kg4b0")
+}, {
+"duration": 1.0,
+"texture": ExtResource("10_slubk")
+}, {
+"duration": 1.0,
+"texture": ExtResource("11_j5w7g")
+}, {
+"duration": 1.0,
+"texture": ExtResource("12_uxrgi")
+}, {
+"duration": 1.0,
+"texture": ExtResource("13_aid8k")
+}, {
+"duration": 1.0,
+"texture": ExtResource("14_vp3in")
+}, {
+"duration": 1.0,
+"texture": ExtResource("15_afboe")
+}, {
+"duration": 1.0,
+"texture": ExtResource("16_oqr1u")
+}, {
+"duration": 1.0,
+"texture": ExtResource("17_yg3ny")
+}, {
+"duration": 1.0,
+"texture": ExtResource("18_hyus4")
+}, {
+"duration": 1.0,
+"texture": ExtResource("19_d7ncq")
+}, {
+"duration": 1.0,
+"texture": ExtResource("20_th3vs")
+}, {
+"duration": 1.0,
+"texture": ExtResource("21_eoa17")
+}, {
+"duration": 1.0,
+"texture": ExtResource("22_acixt")
+}, {
+"duration": 1.0,
+"texture": ExtResource("23_btq6b")
+}, {
+"duration": 1.0,
+"texture": ExtResource("24_8q1lx")
+}, {
+"duration": 1.0,
+"texture": ExtResource("25_qyx07")
+}, {
+"duration": 1.0,
+"texture": ExtResource("26_cp3g7")
+}, {
+"duration": 1.0,
+"texture": ExtResource("27_xg1oo")
+}, {
+"duration": 1.0,
+"texture": ExtResource("28_kejm1")
+}, {
+"duration": 1.0,
+"texture": ExtResource("29_hdvrj")
+}, {
+"duration": 1.0,
+"texture": ExtResource("30_uk21i")
+}],
+"loop": true,
+"name": &"default",
+"speed": 20.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_d712j"]
+radius = 124.004
+
+[sub_resource type="GDScript" id="GDScript_57d63"]
+script/source = "extends RayCast2D
+
+
+# Called when the node enters the scene tree for the first time.
+func _ready() -> void:
+	pass # Replace with function body.
+
+
+# Called every frame. 'delta' is the elapsed time since the previous frame.
+func _process(delta: float) -> void:
+	pass
+"
+
+[node name="Orange_Slime" type="CharacterBody2D"]
+script = ExtResource("1_23js5")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+sprite_frames = SubResource("SpriteFrames_hw1on")
+autoplay = "default"
+frame_progress = 0.577716
+
+[node name="Area2D" type="Area2D" parent="." groups=["Enemy"]]
+collision_layer = 9
+collision_mask = 9
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(2, 18)
+shape = SubResource("CircleShape2D_d712j")
+
+[node name="RayCast2D" type="RayCast2D" parent="."]
+script = SubResource("GDScript_57d63")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
